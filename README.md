@@ -8,3 +8,6 @@ the read_binary dir contine a CTLReader module
 # project_mlwf_ch1
 对应添加的第一章代码，有点乱，将就看啦~>.<
 2018/3/13
+
+# 摘抄一个好句子
+When learning a technical concept, I find it’s better to start with a high-level overview and work your way down into the details rather than starting at the bottom and getting immediately lost.
